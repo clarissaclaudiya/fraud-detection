@@ -109,3 +109,14 @@ Halaman konfigurasi dan pemeliharaan sistem:
 *   **Database Engine:** SQLite (Direktori `database/database.sqlite`), memberikan kinerja pencarian data yang sangat cepat dan portabilitas tinggi.
 *   **Desain Antarmuka:** Tailwind CSS via CDN untuk fleksibilitas styling, dikombinasikan dengan palet warna premium **Deep Indigo** (`#4648d4`) yang melambangkan keamanan dan profesionalisme sistem.
 *   **Pengelola Proses:** PM2 (Process Manager 2). Sistem berjalan online secara background di bawah layanan PM2 dengan nama proses `fraud-detection` (ID: 35) pada port lokal `7978`. Kinerja memori terbukti sangat efisien dan stabil di kisaran **~49 MB** dengan penggunaan CPU **0%** pada kondisi siaga (*idle*).
+
+---
+
+## 5. Repositori GitHub & Riwayat Kontrol
+*   **Repositori Publik:** `git@github.com:clarissaclaudiya/fraud-detection.git`
+*   **Branch Utama:** `main`
+*   **Konfigurasi Akun Pengunggah (Sekali Pakai):**
+    *   Username: `clarissaclaudiya`
+    *   Email: `411232036@mahasiswa.undira.ac.id`
+*   **Kunci SSH Server Terdaftar:** `~/.ssh/id_rsa.pub` (Akun GitHub: `clarissaclaudiya`)
+*   **Log Unggahan Pertama:** 2026-06-27 oleh Baymax.
